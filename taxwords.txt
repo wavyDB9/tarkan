@@ -128,4 +128,3 @@ email
 teams
 pings
 calls
-draft
